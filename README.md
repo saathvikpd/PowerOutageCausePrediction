@@ -1,4 +1,4 @@
-# 📊 Final Project — DSC 80: Data Science in Practice
+# 📊 Power Outage Prediction in the U.S.
 
 Welcome to my final project for **DSC 80**!  
 This project focuses on analyzing power outage data to uncover patterns and insights using data science techniques.
