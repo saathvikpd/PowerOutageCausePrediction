@@ -17,3 +17,8 @@ Authors: Saathvik Dirisala & Saarth Shah
 ---
 
 Feel free to explore the notebook to see the full analysis and results!
+
+## 📓 Project Notebook
+
+View the full notebook here:  
+👉 [Open `project5final.ipynb` on nbviewer](https://nbviewer.org/github/your-username/your-repo-name/blob/main/project5final.ipynb)
