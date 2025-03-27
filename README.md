@@ -1,8 +1,8 @@
 # 📊 Power Outage Prediction in the U.S.
 
-Welcome to our final project for **DSC 80**!  
+Welcome to our final project for **DSC 80**!
+
 This project focuses on analyzing power outage data to uncover patterns and insights using data science techniques.
-Authors: Saathvik Dirisala & Saarth Shah
 ---
 
 ## 📁 Project Contents
