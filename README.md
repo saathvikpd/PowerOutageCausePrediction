@@ -1,4 +1,4 @@
-# 📊 Power Outage Prediction in the U.S.
+# 📊 Power Outage Cause Prediction in the U.S.
 
 Welcome to our final project for **DSC 80**!
 
