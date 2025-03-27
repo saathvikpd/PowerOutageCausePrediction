@@ -10,15 +10,10 @@ Authors: Saathvik Dirisala & Saarth Shah
 
 ## 📁 Project Contents
 
-- 📓 **Notebook:** [`project5final.ipynb`](./project5final.ipynb)  
+- 📓 **Notebook:** [`project5final.ipynb`](./project5final.ipynb) 👉 [Open on nbviewer](https://nbviewer.org/github/saathvikpd/PowerOutageCausePrediction/blob/main/project5final.ipynb)
 - 📊 **Dataset:** [`outage.xlsx`](./outage.xlsx)  
 - 🌐 **Website:** *Currently down 😞 — check back later!*
 
 ---
 
 Feel free to explore the notebook to see the full analysis and results!
-
-## 📓 Project Notebook
-
-View the full notebook here:  
-👉 [Open `project5final.ipynb` on nbviewer](https://nbviewer.org/github/saathvikpd/PowerOutageCausePrediction/blob/main/project5final.ipynb)
