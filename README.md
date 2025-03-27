@@ -3,6 +3,7 @@
 Welcome to our final project for **DSC 80**!
 
 This project focuses on analyzing power outage data to uncover patterns and insights using data science techniques.
+
 ---
 
 ## 📁 Project Contents
